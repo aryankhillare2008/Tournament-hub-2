@@ -1,0 +1,6 @@
+{
+  "name": "Adept Play - Esports Tournament & UPI Wallet Platform",
+  "description": "Professional mobile-first esports gaming tournament platform with manual UPI deposits, instant withdrawals, live match room distribution, and admin control suite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
